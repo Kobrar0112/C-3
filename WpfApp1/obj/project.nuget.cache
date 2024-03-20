@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xQyAKwTBEGPt0Xp0DtavzhU+9nV4Pthr5Pf6QUpKdpU7CZnxlXFuvZn8ulLtz3qMuZB2pbQLH4dT3rsVmBapyw==",
+  "success": true,
+  "projectFilePath": "D:\\Учёба\\C#\\2-ой Семестр\\Практическая N3\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
